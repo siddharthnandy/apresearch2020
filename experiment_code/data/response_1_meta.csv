@@ -1,0 +1,2 @@
+Name,Age,Handedness,KindOfTrials,NumberOfTrials,Trait,TrialTime,firstRaceGender,secondRaceGender
+1,,1,biased ensemble,150,dominant,2000ms,WF,WM
